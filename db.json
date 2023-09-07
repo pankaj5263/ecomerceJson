@@ -1,0 +1,28 @@
+{
+  "productList":[
+    {
+    "id": 1,
+    "title": "Product 1",
+    "description": "This is the description for Product 1.",
+    "image": "https://www.knyew.com/cdn/shop/products/KNYEW_HALF_SCOOP_WEB_-_10_grande_69d62ab0-b1f6-4a95-94fc-534bc839dc11_2048x2048.jpg?v=1521668024",
+    "rating": 4.5,
+    "price": "$19.99"
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "This is the description for Product 1.",
+    "image": "https://www.knyew.com/cdn/shop/products/KNYEW_HALF_SCOOP_WEB_-_10_grande_69d62ab0-b1f6-4a95-94fc-534bc839dc11_2048x2048.jpg?v=1521668024",
+    "rating": 3,
+    "price": "$29.99"
+  },
+  {
+    "id": 3,
+    "title": "Product 1",
+    "description": "This is the description for Product 1.",
+    "image": "https://www.knyew.com/cdn/shop/products/KNYEW_HALF_SCOOP_WEB_-_10_grande_69d62ab0-b1f6-4a95-94fc-534bc839dc11_2048x2048.jpg?v=1521668024",
+    "rating": 2,
+    "price": "$49.99"
+  }
+]
+}
